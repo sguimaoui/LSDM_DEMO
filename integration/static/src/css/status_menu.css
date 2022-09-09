@@ -1,0 +1,11 @@
+.o_integration_stat {
+    padding: 5px;
+}
+
+.o_integration_stat:hover {
+    background-color: #f8f9fa;
+}
+
+.o_integration_stat:not(:last-child) {
+     border-bottom: 1px solid #ced4da;
+}
